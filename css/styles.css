@@ -1,0 +1,18 @@
+body {
+  background-color: gray;
+  color: white;
+}
+
+.form-control {
+background-color: rgb(75, 75, 75);
+color: white
+}
+
+.btn {
+  background-color: orange;
+}
+
+.row {
+  padding-left: 8%;
+  align-self: center;
+}
