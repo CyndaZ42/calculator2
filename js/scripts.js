@@ -43,4 +43,5 @@ $(document).ready(function() {
     const result = divide(number1, number2);
     $("#output").text(result);
   });
+  
 });
